@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "597704100884",
+    "firebase_url": "https://ancroidchat.firebaseio.com",
+    "project_id": "ancroidchat",
+    "storage_bucket": "ancroidchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597704100884:android:6b774cac9252d6db",
+        "android_client_info": {
+          "package_name": "net.tjtorrico.androidchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597704100884-r50dq7b2ccg7bkm8ds6rlajb86kbefsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI6GWbkqOM8OQkFWyBMpljEQxjTbqu0WM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
